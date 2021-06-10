@@ -571,10 +571,7 @@ function ejercicio16 (e) {
 
         resultado = calculadora.dividir(num1,num2)
         alert(`El resultado es ${resultado}`)
-        
-    } else if {
-        
-    }
+  
 
     e.preventDefault()
 }
